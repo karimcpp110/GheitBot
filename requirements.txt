@@ -4,4 +4,5 @@ requests
 folium
 streamlit-folium
 feedparser
-streamlit-autorefresh
+beautifulsoup4
+lxml
