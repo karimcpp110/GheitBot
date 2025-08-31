@@ -6,3 +6,4 @@ streamlit-folium
 feedparser
 beautifulsoup4
 lxml
+streamlit-autorefresh
