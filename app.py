@@ -14,7 +14,7 @@ from streamlit_autorefresh import st_autorefresh
 # -------------------------------------------------------
 # 🔑 OpenWeather API Key
 # -------------------------------------------------------
-OPENWEATHER_API_KEY = "1569e5c1f6363a07e24c895864d91574"
+OPENWEATHER_API_KEY = "" # add yours
 
 # -------------------------------------------------------
 # 📂 Load Egypt places
